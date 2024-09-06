@@ -1,5 +1,5 @@
 1.Convert the following numbers from binary to decimal.
-a) 766
-b) 11101
-c) 101001
-d) 1010111
+a) 76
+b) 29
+c) 41
+d) 87
